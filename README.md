@@ -2,6 +2,7 @@
 - 👀 I’m interested in Web Development and Graphic Designing.
 - 🌱 I’m currently learning HTML, Javascript, CSS and Photshop.
 - 💞️ I’m looking to collaborate on ...
+- 💻 My web page is https://www.exabytetech.ml/
 - 📫 Reach me at resanduk8@gmail.com
 
 <!---
