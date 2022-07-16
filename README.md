@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ResanduMarasinghe
+- 👋 Hi, I’m @ResanduMarasinghe | Also Know As - TheCodeDev08
 - 👀 I’m interested in Web Development and Graphic Designing.
 - 🌱 I’m currently learning HTML, Javascript, CSS and Photshop.
 - 💞️ I’m looking to collaborate on ...
