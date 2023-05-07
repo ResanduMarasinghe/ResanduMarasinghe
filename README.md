@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning HTML, Javascript, CSS and Photshop.
 - 💞️ I’m looking to collaborate on ...
 - 💻 My web page is https://www.exabytetech.ml/
-- 📫 Reach me at resanduk8@gmail.com
+- 📫 Reach me at **************
 
 <!---
 ResanduMarasinghe/ResanduMarasinghe is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
