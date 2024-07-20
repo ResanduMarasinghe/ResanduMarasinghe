@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @ResanduMarasinghe | Also Know As - TheCodeDev08
-- 👀 I’m interested in Web Development and Graphic Designing.
-- 🌱 I’m currently learning HTML, Javascript, CSS and Photshop.
+- 👋 Hi, I’m @ResanduMarasinghe
+- 👀 I’m interested in UI/UX designing, Web Development and Graphic Designing.
+- 🌱 I’m currently learning...
 - 💞️ I’m looking to collaborate on ...
-- 💻 My web page is https://www.exabytetech.ml/
+- 💻 My web page is
 - 📫 Reach me at **************
 
 <!---
