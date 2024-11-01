@@ -14,7 +14,7 @@ I’m focusing on expanding my skills in:
 - **Advanced design techniques** to make interfaces pop!
 
 ## 🤝 Connect with Me
-- **Twitter**: [@MarasingheMMRK]
+- **Twitter**: [@MarasingheMMRK}(https://x.com/MarasingheMMRK)
 
 <!---
 ResanduMarasinghe/ResanduMarasinghe is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
