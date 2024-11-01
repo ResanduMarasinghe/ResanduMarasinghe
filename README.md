@@ -1,6 +1,20 @@
-- 👋 Hi, I’m @ResanduMarasinghe
-- 👀 I’m interested in UI/UX designing, Web Development and Graphic Designing.
-- 🌱 I’m currently learning everything.
+# 👋 Hi, I’m Resandu!
+
+## 🧑‍💻 About Me
+I’m a student from Sri Lanka, diving into the worlds of **web development, UI/UX and programming**. Always up for a good challenge, I design, code and learn. 🚀
+
+## 🛠️ Tech I Work With
+- **Languages**: HTML, CSS, JavaScript
+- **Design Tools**: Figma , Photoshop
+- **Currently Exploring**: React
+
+## 🌱 Currently Learning
+I’m focusing on expanding my skills in:
+- **Front-end frameworks** like React
+- **Advanced design techniques** to make interfaces pop!
+
+## 🤝 Connect with Me
+- **Twitter**: [@MarasingheMMRK]
 
 <!---
 ResanduMarasinghe/ResanduMarasinghe is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
