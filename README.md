@@ -6,7 +6,7 @@ I’m a student from Sri Lanka, diving into the worlds of **web development, UI/
 ## 🛠️ Tech I Work With
 - **Languages**: HTML, CSS, JavaScript
 - **Design Tools**: Figma , Photoshop
-- **Currently Exploring**: React
+- **Currently Exploring**: React and Blender
 
 ## 🌱 Currently Learning
 I’m focusing on expanding my skills in:
