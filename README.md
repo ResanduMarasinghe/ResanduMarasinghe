@@ -1,5 +1,5 @@
 # 👋 Hi, I’m Resandu!
-![Profile Picture](https://github.com/ResanduMarasinghe/ResanduMarasinghe/blob/646578c934ba9dd60b69673a9f2d1bb9dcb933c7/Profile%20Pic.png)
+![Banner](https://github.com/ResanduMarasinghe/ResanduMarasinghe/blob/646578c934ba9dd60b69673a9f2d1bb9dcb933c7/Profile%20Pic.png)
 
 ## 🧑‍💻 About Me
 I’m a student from Sri Lanka, diving into the worlds of **web development, UI/UX and programming**. Always up for a good challenge, I design, code and learn. 🚀
