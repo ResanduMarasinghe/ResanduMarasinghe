@@ -13,7 +13,7 @@ I’m focusing on expanding my skills in:
 - **Front-end frameworks** like React
 - **Advanced design techniques** to make interfaces pop!
 
-## 🤝 Connect with Me
+## 🤝 Contact Me
 - **Twitter**: [@MarasingheMMRK](https://x.com/MarasingheMMRK)
 
 <!---
