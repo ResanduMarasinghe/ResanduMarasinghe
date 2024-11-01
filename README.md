@@ -1,4 +1,5 @@
 # 👋 Hi, I’m Resandu!
+![Profile Picture](Profile Pic.png)
 
 ## 🧑‍💻 About Me
 I’m a student from Sri Lanka, diving into the worlds of **web development, UI/UX and programming**. Always up for a good challenge, I design, code and learn. 🚀
