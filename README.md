@@ -14,9 +14,11 @@ I’m focusing on expanding my skills in:
 - **Advanced design techniques** to make interfaces pop!
 
 # 📊 GitHub Stats:
+<div align="center">
 ![](https://github-readme-stats.vercel.app/api?username=ResanduMarasinghe&theme=dracula&hide_border=false&include_all_commits=false&count_private=false)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ResanduMarasinghe&theme=dracula&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ResanduMarasinghe&theme=dracula&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+</div>
 
 ## 🤝 Contact Me
 - **Twitter**: [@MarasingheMMRK](https://x.com/MarasingheMMRK)
