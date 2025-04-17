@@ -19,7 +19,7 @@ I’m focusing on expanding my skills in:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ResanduMarasinghe&theme=dracula&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ## 🤝 Contact Me
-- **Twitter**: [@MarasingheMMRK](https://x.com/MarasingheMMRK)
+- **X**: [@MarasingheMMRK](https://x.com/MarasingheMMRK)
 
 <!---
 ResanduMarasinghe/ResanduMarasinghe is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
