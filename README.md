@@ -4,7 +4,7 @@
 I’m a student from Sri Lanka, diving into the worlds of **web development, UI/UX and programming**. Always up for a good challenge, I design, code and learn. 🚀
 
 ## 🛠️ Tech I Work With
-- **Languages**: HTML, CSS, JavaScript ![](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+- **Languages**: ![](https://img.shields.io/badge/HTML-e34c26?style=flat&logo=html5&logoColor=white) ![](https://img.shields.io/badge/CSS-563d7c?&style=flat&logo=css3&logoColor=white) ![](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 - **Design Tools**: Figma , Photoshop
 - **Currently Exploring**: React and Blender
 
